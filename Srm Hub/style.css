@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+
+/* Desktop-1 */
+
+.desktop-1{
+position: relative;
+width: 1440px;
+height: 1024px;
+background: #121212;
+}
+
+/* Nav Bar */
+
+.nav{
+  position: absolute;
+  width: 1309px;
+  height: 65px;
+  left: 50px;
+  top: 24px;
+}
+
+.navlink:hover{
+  text-decoration: none !important;
+  color:#FFFFFF;
+}
+
+/* Srm Hub */
+
+.hub{
+  position: absolute;
+  width: 156px;
+  height: 65px;
+  left: 50px;
+  top: 24px;
+
+  
+  font-family:'Sacramento', cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 58px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  
+  color: #FFFFFF;}
+
+  /* Home */
+
+.home{
+  position: absolute;
+  width: 55px;
+  height: 65px;
+  left: 970px;
+  top: 24px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  
+  color: #FFFFFF;  
+}
+
+/* Notes */
+
+.notes{
+  position: absolute;
+  width: 55px;
+  height: 65px;
+  left: 1049px;
+  top: 24px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  
+  color: #FFFFFF;  
+}
+
+/* Restaurants */
+
+.food{
+  position: absolute;
+  width: 107px;
+  height: 65px;
+  left: 1128px;
+  top: 24px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  
+  color: #FFFFFF;   
+}
+
+/* Contact Us */
+
+.contact{
+position: absolute;
+width: 100px;
+height: 65px;
+left: 1259px;
+top: 24px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+/* Top-container */
+
+
+/* Town */
+
+.town{
+position: absolute;
+width: 654px;
+height: 352px;
+left: 103px;
+top: 264px;
+}
+
+/* Welcome To */
+
+.heading{
+position: absolute;
+width: 389px;
+height: 73px;
+left: 925px;
+top: 296px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 73px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+/* SRM HUB */
+
+.sub-heading{
+  position: absolute;
+  width: 199px;
+  height: 49px;
+  left: 925px;
+  top: 369px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 49px;  
+  display: flex;
+  align-items: center;
+  text-align: center;
+  
+  color: #6C63FF;  
+}
+
+/* para */
+
+.para{
+  position: absolute;
+  width: 389px;
+  height: 48px;
+  left: 925px;
+  top: 446px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  color: #FFFFFF; 
+}
+
+/* Rectangle 1 */
+
+.rectangle1{
+position: absolute;
+width: 131px;
+height: 44px;
+left: 925px;
+top: 572px;
+  
+background: #6C63FF;
+border-radius: 8px;}
+
+/* Rectangle 2 */
+
+.rectangle2{
+position: absolute;
+width: 138px;
+height: 44px;
+left: 1086px;
+top: 572px;
+
+background: #7C7C7C;
+border-radius: 8px;
+}
+
+/* Button */
+
+.btn{
+border:none;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+}
+
